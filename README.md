@@ -1,6 +1,7 @@
 # web-scrap
 
 A Scapy app to extract data from a ecommerce website
+
 Save scraped data to csv, txt and Mysql database.
 
 How to run:
